@@ -13,11 +13,11 @@ data (running result) to the xlsx sheet.
 
 5) Use those data for “Email”.
 
-<First Name>.<Last Name>@mail.npu.edu
+First Name.Last Name@mail.npu.edu
 
-<First Name>-<Last Name>@mail.npu.edu
+First Name-Last Name@mail.npu.edu
 
-<First Name>_<Last Name>@mail.npu.edu
+First Name_Last Name@mail.npu.edu
 
 6) Use your student id as “Password”.
 
