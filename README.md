@@ -29,18 +29,23 @@ public void NPUStudentLoginTestNG(String email, String password)
 // Step 1: Initiate Firefox browser
 
 // Step 2: open NPU from google search
+
 openNPUFromGoogleSearch(SearchText, LinkText);
 
 // Step 3: click Admissions then click Apply Online to open Student Logon page
+
 openApplyOnline();
 
 // Step 4: check Student Login page title is "Log On"
+
 checkOpenStudentLogin("Log On");
 
 // Step 5: input Email and Password
+
 InputEmailPassword(email, password);
 
 // Step 6: click Log On button
+
 clickLogonbutton();
 
 // Step 7: close window and exit
